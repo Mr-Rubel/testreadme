@@ -25,6 +25,7 @@ This is another style of heading two
     copy me
 
 
+<h2 align='center'>Text Formating</h2>
 
 **This is text bold**
 
