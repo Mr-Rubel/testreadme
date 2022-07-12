@@ -169,8 +169,12 @@ This is a script `<script></script>` Tag.
 <h2 align='center'>All about Collapsible</h2>
 
 <details>
-    <summary>It's me Mijanur Rahman</summary>
+    <summary>Mijanur Rahman</summary>
 # Bio of mijan
 
 My name is mijanur rahman. I'm a cyber security student.
 </details>
+
+<h2 align='center'>All about Emoji</h2>
+
+:grinning:
