@@ -147,3 +147,5 @@ Header one | Header two | Header three
 
 ## This is codeblocks
 This is a `<img>` Tag.
+
+This is a script `<script></script>` Tag.
