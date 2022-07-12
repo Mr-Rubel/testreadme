@@ -235,3 +235,5 @@ If you wanna see How to do a comment you will have to seen core<kbd>READEME.md</
 - [Badge Generator](https://shields.io/ "Badge Generator")
 
 - [GitHub Flavoured Markdown](https://github.github.com/gfm/ "GitHub Flavoured Markdown")
+
+<h2 align='center' color='yellow'>About Me</h2>
