@@ -90,3 +90,8 @@ _**This is next level bold with italic text**_
 * another level item two
     1. another nested item one
     2. another nested item two
+
++ Other level item one
++ Other level item two
+    + Other level nested item one
+    + Other level nested item two
