@@ -23,3 +23,7 @@ This is another style of heading two
 
 # Click to copy style
     copy me
+
+
+
+**This is text bold**
