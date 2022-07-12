@@ -179,6 +179,8 @@ My name is mijanur rahman. I'm a cyber security student.
 
 :grinning: | :smiling_face_with_three_hearts: | :kissing_closed_eyes:
 
+[Emoji and Others all](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
 <h2 align='center'>All about Keyboard</h2>
 To copy: <kbd>CTRL</kbd> + <kbd>C</kbd>
 
