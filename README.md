@@ -208,3 +208,9 @@ To past in linux: <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>V</kbd>
 <a name='Backend'></a>
 - PHP
 - Python
+
+<h2 align='center'>Escaping and Comment</h2>
+\- This is escape
+\\- This is escape
+\+- This is escape
+\+~- This is escape
