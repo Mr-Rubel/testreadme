@@ -27,3 +27,4 @@ This is another style of heading two
 
 
 **This is text bold**
+__This is another style text bold__
