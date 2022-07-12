@@ -156,3 +156,7 @@ This is a script `<script></script>` Tag.
     alert(1);
 </script>
 ```
+
+## CheckBox
+- [ ] Checkbox init
+- [ ] Checkbox secondary
