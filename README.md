@@ -121,4 +121,8 @@ My name is [Mijanur Rahman][1]. I'm learning Ethical Hacking from [Cyber Bangla]
 
 <h2 align='center'>All about images</h2>
 
+## Normal image
 ![Flower1](images/1.jpeg "Flower 1")
+
+## Clickable image
+[![Flower1](images/1.jpeg "Clickable Flower 1")](https://images.unsplash.com/photo-1604085572504-a392ddf0d86a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b3JhbmdlJTIwZmxvd2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80 "link of this flower")
