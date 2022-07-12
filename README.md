@@ -177,4 +177,4 @@ My name is mijanur rahman. I'm a cyber security student.
 
 <h2 align='center'>All about Emoji</h2>
 
-:grinning:
+:grinning: | :smiling_face_with_three_hearts: | :kissing_closed_eyes:
