@@ -236,4 +236,4 @@ If you wanna see How to do a comment you will have to seen core<kbd>READEME.md</
 
 - [GitHub Flavoured Markdown](https://github.github.com/gfm/ "GitHub Flavoured Markdown")
 
-<h2 align='center' color='yellow'>About Me</h2>
+<h2 style="text-align:center;color:yellow">About Me</h2>
