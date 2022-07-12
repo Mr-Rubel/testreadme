@@ -73,6 +73,6 @@ _**This is next level bold with italic text**_
 2. number item two
 3. number item three
     1. nested number item one
-    1. nested number item two
+    2. nested number item two
     3. nested number item three
 4. number item four
