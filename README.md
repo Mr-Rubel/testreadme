@@ -156,7 +156,8 @@ This is a script `<script></script>` Tag.
     alert(1);
 </script>
 ```
+<h2 align='center'>All about Checkbox</h2>
 
-## CheckBox
+## Uncheck CheckBox
 - [ ] Checkbox init
 - [ ] Checkbox secondary
