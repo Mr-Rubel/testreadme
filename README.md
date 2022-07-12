@@ -30,6 +30,8 @@ This is another style of heading two
 
 __This is another style text bold__
 
+This is another le**vel** text bo**ld**
+
 
 *This is italic text*
 
