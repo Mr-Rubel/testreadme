@@ -161,3 +161,7 @@ This is a script `<script></script>` Tag.
 ## Uncheck CheckBox
 - [ ] Checkbox init
 - [ ] Checkbox secondary
+
+## Checked CheckBox
+- [x] Checkbox init
+- [x] Checkbox secondary
