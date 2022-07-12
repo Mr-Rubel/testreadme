@@ -1,5 +1,6 @@
 ## This is test project for Makedown file
-# This is all about headings
+
+<h2 align='center'>This is all about headings</h2>
 
 # Heading One
 ## Heading Two
