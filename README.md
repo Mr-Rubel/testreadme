@@ -209,7 +209,7 @@ To past in linux: <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>V</kbd>
 - PHP
 - Python
 
-<h2 align='center'>Escaping and Comment</h2>
+<h2 align='center'>All about Escaping</h2>
 \- This is escape
 
 \\- This is escape
