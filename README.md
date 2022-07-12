@@ -45,3 +45,5 @@ ___This is another bold with italic text___
 *__This is another level bold with italic text__*
 
 _**This is next level bold with italic text**_
+
+~~This is strikethrough text~~
