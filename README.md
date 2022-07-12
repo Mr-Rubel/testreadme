@@ -178,3 +178,6 @@ My name is mijanur rahman. I'm a cyber security student.
 <h2 align='center'>All about Emoji</h2>
 
 :grinning: | :smiling_face_with_three_hearts: | :kissing_closed_eyes:
+
+<h2 align='center'>All about Keyboard</h2>
+To copy: <kbd>CTRL</kbd> + <kbd>C</kbd>
