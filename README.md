@@ -50,3 +50,7 @@ ___This is another bold with italic text___
 _**This is next level bold with italic text**_
 
 ~~This is strikethrough text~~
+
+<h2 align='center'>Blockquote Text Formating</h2>
+
+> This is blockquote text
