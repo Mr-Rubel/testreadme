@@ -69,6 +69,8 @@ _**This is next level bold with italic text**_
 
 <h2 align='center'>All about lists</h2>
 
+## Ordered list
+
 1. number item one
 2. number item two
 3. number item three
