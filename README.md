@@ -88,3 +88,5 @@ _**This is next level bold with italic text**_
 
 * another level item one
 * another level item two
+    1. another nested item one
+    2. another nested item two
