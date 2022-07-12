@@ -151,7 +151,7 @@ This is a `<img>` Tag.
 This is a script `<script></script>` Tag.
 
 ## This is multiple line codeblocks
-```
+```javascript
 <script>
     alert(1);
 </script>
