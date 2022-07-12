@@ -181,9 +181,7 @@ My name is mijanur rahman. I'm a cyber security student.
 
 <h2 align='center'>All about Keyboard</h2>
 To copy: <kbd>CTRL</kbd> + <kbd>C</kbd>
-
 To past: <kbd>CTRL</kbd> + <kbd>V</kbd>
 
 To copy in linux: <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>C</kbd>
-
 To past in linux: <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>V</kbd>
