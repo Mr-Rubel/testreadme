@@ -220,7 +220,7 @@ To past in linux: <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>V</kbd>
 
 <h2 align='center'>All about Comment</h2>
 
-If you wanna see How to do a comment you will have to seen <kbd>raw</kdb> <kbd>READEME.md</kbd> file
+If you wanna see How to do a comment you will have to seen <kbd>raw</kdb><br/> <kbd>READEME.md</kbd> file
 
 [comment]: <> (This is a comment)
 [comment]: <> (This is an another comment)
