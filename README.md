@@ -39,3 +39,4 @@ _This is another style italic text_
 This is another le**vel** text bo**ld**
 
 ***This is bold with italic text***
+___This is another bold with italic text___
