@@ -127,5 +127,11 @@ My name is [Mijanur Rahman][1]. I'm learning Ethical Hacking from [Cyber Bangla]
 ## Clickable image
 [![Flower1](images/1.jpeg "Clickable Flower 1")](https://images.unsplash.com/photo-1604085572504-a392ddf0d86a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b3JhbmdlJTIwZmxvd2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80 "link of this flower")
 
-## Align image
+## Center Align image
 <p align='center'><img src='images/fb-icon.png' width='30' ></p>
+
+## Right Align image
+<p align='right'><img src='images/fb-icon.png' width='30' ></p>
+
+## Left Align image
+<p align='Left'><img src='images/fb-icon.png' width='30' ></p>
