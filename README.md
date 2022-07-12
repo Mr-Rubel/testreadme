@@ -225,3 +225,13 @@ If you wanna see How to do a comment you will have to seen core<kbd>READEME.md</
 [comment]: <> (This is a comment)
 [//]: <> (This is an another comment)
 [//]: # (This is also comment)
+
+<h1>All Resources</h1>
+
+- [Basic Syntax](https://www.markdownguide.org/basic-syntax "All Basic Syntax")
+
+- [Emoji List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md "All Emoji List")
+
+- [Badge Generator](https://shields.io/ "Badge Generator")
+
+- [GitHub Flavoured Markdown](https://github.github.com/gfm/ "GitHub Flavoured Markdown")
