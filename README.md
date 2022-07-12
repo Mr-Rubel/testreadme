@@ -167,6 +167,7 @@ This is a script `<script></script>` Tag.
 - [x] Checkbox secondary
 
 <h2 align='center'>All about Collapsible</h2>
+
 <details>
     <summary>It's me Mijanur Rahman</summary>
 # Bio of mijan
