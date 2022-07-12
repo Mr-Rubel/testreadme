@@ -106,3 +106,6 @@ _**This is next level bold with italic text**_
 
 #### This is gmail link
 <mijanurrahman.rubel2@gmail.com>
+
+#### This is link text with bold and italic
+**_[Mijanur Rahman](https://www.facebook.com/freelancermijan0 "My Facebook Profile link")_**
