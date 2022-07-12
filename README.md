@@ -7,3 +7,9 @@
 #### Heading Four
 ##### Heading Five
 ###### Heading Six
+
+This is another style of heading one
+====================================
+
+This is another style of heading two
+------------------------------------
