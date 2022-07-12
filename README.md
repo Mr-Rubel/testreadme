@@ -223,4 +223,5 @@ To past in linux: <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>V</kbd>
 If you wanna see How to do a comment you will have to seen core<kbd>READEME.md</kbd> file
 
 [comment]: <> (This is a comment)
-[comment]: <> (This is an another comment)
+[//]: <> (This is an another comment)
+[//]: # (This is also comment)
