@@ -41,3 +41,5 @@ This is another le**vel** text bo**ld**
 ***This is bold with italic text***
 
 ___This is another bold with italic text___
+
+*__This is another level bold with italic text__*
